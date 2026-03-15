@@ -1,0 +1,4 @@
+TOKEN = "8755029880:AAGyyMUw-vDd4djpMlPS8T6wFx0qii6Ver0"
+ADMIN_IDS = [6751217931]
+BOT_USERNAME = "@SigmaMediaBot"
+BOT_NAME = "Sigma Media"
